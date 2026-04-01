@@ -224,13 +224,21 @@ Teathered turns financial behavior into a game:
 ---
 <h1>Hardware | Troubleshooting💻🧩</h1>
 
-<body>
 <details>
-  
-    - LAPTOP
-    - Ethernet Cable (RJ45)
- 
-Demonstrated in the link below, I have done a runthrough video of me disassemblying a laptop and identifing the parts inside.
-<p>Laptop Runthrough</p>
+  <p>
+    <a href="https://your-video-link.com">Laptop Disassemble/Assemble🧑‍💻⚡</a>
+  </p>
 
-<p>The second video is of me terminating an ethernet cable. From sratch to a live working, tested ethernet cable.</p></details>
+   <p>
+    <a href="https://your-video-link.com">Laptop SOHO Network🔌🤖</a>
+  </p>
+
+
+</details>
+
+
+## Connect with me🌐
+
+- 🌊 [LinkedIn](https://www.linkedin.com/in/amaziah-timoti-564960378/)
+- 🐦 [Twitter](https://twitter.com/yourname)
+- 📸 [Instagram](https://instagram.com/yourname)
