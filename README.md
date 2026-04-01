@@ -52,7 +52,7 @@ Because for me, it’s about growth — taking everything I’ve learned so far�
 </details>
 
 
-# Vibecoding | App building 🔗🧠</p> 
+# Vibecoding | App Building 🔗🧠</p> 
 <details>### A gamified financial experience that keeps you connected to better habits
 
 <p align="center">
