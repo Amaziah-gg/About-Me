@@ -230,7 +230,7 @@ Teathered turns financial behavior into a game:
   </p>
 
    <p>
-    <a href="https://your-video-link.com">Laptop SOHO Network🔌🤖</a>
+    <a href="https://your-video-link.com">SOHO Network Design🔌🤖</a>
   </p>
 
 
