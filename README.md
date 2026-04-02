@@ -35,12 +35,12 @@ Because for me, it’s about growth — taking everything I’ve learned so far�
   </p>
 
   <details>
-  <summary>Apprentice Electrician</summary>
+  <summary>Apprentice Electrician💡⚡</summary>
   <p>2 years experience as an electrician</p>
   </details>
 
   <details>
-  <summary>Rainbow's End</summary>
+  <summary>Rainbow's End🌈🍯</summary>
   <p>
   Worked at Rainbows End for 5 years. 
   3 of those being a ride operator and 2 years being a Team Leader
@@ -52,8 +52,8 @@ Because for me, it’s about growth — taking everything I’ve learned so far�
 </details>
 
 
-# Vibecoding | App Building 🔗🧠</p> 
-<details>### A gamified financial experience that keeps you connected to better habits
+# Creativity | App Building 🔗🧠</p> 
+<details><summary>I VibeCoded an app 🎮🗺️</summary>### A gamified financial experience that keeps you connected to better habits
 
 <p align="center">
   <img src="YOUR_BANNER_IMAGE" width="100%" />
