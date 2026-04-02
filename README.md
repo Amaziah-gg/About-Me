@@ -239,6 +239,6 @@ Teathered turns financial behavior into a game:
 
  <h1>Connect With ME 🌐</h1>
 
-- 🌊 [LinkedIn](https://www.linkedin.com/in/amaziah-timoti-564960378/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amaziah-timoti-564960378/)
 - 📩 [Gmail](mailto:amaziahtimoti@gmail.com)
 - 📸 [Instagram](https://instagram.com/amaziah.t)
