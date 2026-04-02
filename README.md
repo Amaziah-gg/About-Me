@@ -226,7 +226,7 @@ Teathered turns financial behavior into a game:
 
 <details>
   <p>
-    <a href="https://your-video-link.com">Laptop Disassemble/Assemble🧑‍💻⚡</a>
+    <a href="https://your-video-link.com">Laptop Dis-assemble/Assemble🧑‍💻⚡</a>
   </p>
 
    <p>
