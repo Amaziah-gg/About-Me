@@ -224,7 +224,7 @@ Teathered turns financial behavior into a game:
 ---
 <h1>Hardware | Troubleshooting💻🧩</h1>
 
-<details><summary>Academy XI 📖✏️</summary>
+<details><summary>Laptop/SOHO Breakdown 📖✏️</summary>
   <p>
     <a href="https://your-video-link.com">Laptop Dis-assemble/Assemble🧑‍💻⚡</a>
   </p>
