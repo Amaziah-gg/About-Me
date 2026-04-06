@@ -227,11 +227,11 @@ Teathered turns financial behavior into a game:
 
 <details><summary>AI Business videos</summary>
   <p>
-    <a href="https://your-video-link.com">Brainstorm Phase🧑‍💻⚡</a>
+    <a href="https://youtu.be/ZigypgG4H9M">Brainstorm Phase🧑‍💻⚡</a>
   </p>
 
    <p>
-    <a href="https://your-video-link.com">AI Business Case Presentation🔌🤖</a>
+    <a href="https://youtu.be/1sg4-qKXZIs">AI Business Case Presentation🔌🤖</a>
   </p>
 
 </details>
