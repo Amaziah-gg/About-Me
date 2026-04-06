@@ -222,11 +222,26 @@ Teathered turns financial behavior into a game:
 - [ ] AI assistant</details>
 
 ---
+
+<h1>AI Business Case Study🧑‍💻✏️</h1>
+
+<details><summary>AI Business videos</summary>
+  <p>
+    <a href="https://your-video-link.com">Brainstorm Phase🧑‍💻⚡</a>
+  </p>
+
+   <p>
+    <a href="https://your-video-link.com">AI Business Case Presentation🔌🤖</a>
+  </p>
+
+</details>
+
+---
 <h1>Hardware | Troubleshooting💻🧩</h1>
 
 <details><summary>Laptop/SOHO Breakdown 📖✏️</summary>
   <p>
-    <a href="https://your-video-link.com">Laptop Dis-assemble/Assemble🧑‍💻⚡</a>
+    <a href="https://youtu.be/ZigypgG4H9M">Laptop Dis-assemble/Assemble🧑‍💻⚡</a>
   </p>
 
    <p>
