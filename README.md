@@ -36,15 +36,12 @@ Because for me, it’s about growth — taking everything I’ve learned so far�
 
   <details>
   <summary>Apprentice Electrician💡⚡</summary>
-  <p>2 years experience as an electrician</p>
+  <p>I worked two and a half years at the Mt Eden Train Station. Pulling cables through the buildings. Wiring up transformers, door sensors, exit lights and emergency lighting. Also wired up Dally lighting panels that connected to motion sensors and timers. During this period, once wiring was completed was the troubleshooting phase. Testing and more testing to see and find any faults on anything electrical related on site.</p>
   </details>
 
   <details>
   <summary>Rainbow's End🌈🍯</summary>
-  <p>
-  Worked at Rainbows End for 5 years. 
-  3 of those being a ride operator and 2 years being a Team Leader
-  </p>
+  <p>Started working here in 2018. Began my journey here as a Ride Operator for three years. during this time I operated rides and made announcements for rides. I also did ride satefy checks for this everytime I was on a ride. The two years that followed, I ended up as a Team Leader for the Attractions Department. I would roster people to different rides for the day, roster people for shifts and then handled any/all customer complaints/queries in regards to the rides or my staff  </p>
   </details>
 
   </details>
