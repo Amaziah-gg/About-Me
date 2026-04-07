@@ -53,7 +53,25 @@ Because for me, it’s about growth — taking everything I’ve learned so far�
 
   <details>
   <summary>Rainbow's End🌈🍯</summary>
-  <p>Started working here in 2018. Began my journey here as a Ride Operator for three years. during this time I operated rides and made announcements for rides. I also did ride satefy checks for this everytime I was on a ride. The two years that followed, I ended up as a Team Leader for the Attractions Department. I would roster people to different rides for the day, roster people for shifts and then handled any/all customer complaints/queries in regards to the rides or my staff  </p>
+  <p>
+
+<h2>Ride Operator</h2>
+
+- Operated rides
+
+- Daily checks on rides
+
+- Customer service with ride announcements
+
+- Stay aware for any safety concerns before, during and after the ride
+
+<h2>Team Leader</h2>
+
+
+
+- Maintained and upheld safety standards daily for staff
+- In charge of managing and rostering staff on different amusement rides
+- First to deal with and handle customer enquiries and complaints in regard to rides and ride staff </p>
   </details>
 
   </details>
