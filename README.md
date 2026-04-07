@@ -36,7 +36,19 @@ Because for me, it’s about growth — taking everything I’ve learned so far�
 
   <details>
   <summary>Apprentice Electrician💡⚡</summary>
-  <p>I worked two and a half years at the Mt Eden Train Station. Pulling cables through the buildings. Wiring up transformers, door sensors, exit lights and emergency lighting. Also wired up Dally lighting panels that connected to motion sensors and timers. During this period, once wiring was completed was the troubleshooting phase. Testing and more testing to see and find any faults on anything electrical related on site.</p>
+  <p>
+
+
+- Gaining Hands-on experience with switchboards and basic electrical installation.
+
+    
+- Following safety procedures while using tools and electrical equipment.
+
+
+- Supporting qualified electricians on-site and applying practical knowledge from pre-trade training.
+
+- Worked on Mt Eden train station project. Installed support for cables, wired up lights, sensors, card readers, socket outlets, isolators and helped with cable termination on a transformer.</p>
+
   </details>
 
   <details>
