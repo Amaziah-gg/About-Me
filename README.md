@@ -1,286 +1,122 @@
-<h1>🌊Talofa, My name is Amaziah🐚</h1>
+<h1>🌊Talofa, I'm Amaziah! <br/>
 
-<details>
-  <summary>Check me out 🌱</summary>
+<h2>👨‍💻 Who am I:</h2>
 
- <p> My name is Amaziah Timoti.
+ <details><summary>Check me out 🌱</summary>
 
-  I’m an aspiring Pasifika, finding my way into the tech space.
-   
-  I come from strong cultural roots and I carry that with me in everything I do.
-  At the same time, I’ve got that curiosity.. wanting to learn, build, and understand where I fit in this space.
+ <p> 
+ 
+  Over the past several months, I’ve engaged with AI tools. Sharpening my enterprise mindset to create value for business outcomes using AI. I’ve used LLM’s Codex, Claude Code and workflow automation n8n to build solutions while creating case studies to present back to stakeholders.
+  
+  I’m an aspiring Samoan with a strong curiosity and passion for technology. I've been hands-on with tech from an early age, from gaming to electrical work, always drawn to building, fixing, and understanding how things work. 
+  
+- 🔭 I’m currently working on a solution that helps my non-verbal brother communicate more effectively with me through drawings.
+- 🌱 I’m currently learning Python to better my understanding on Machine-learning
+- 💬 Ask me about: anything Rugby League or gaming :)
+- ⚡ Fun fact: I have an identical twin brother
+  </p></details>
 
-  For me, it’s not just about getting into tech. It’s about how I can use it to make a real impact especially for my people.
+<details><summary>Experiences 🛠️</summary>
+<br/>
 
-  Because where I come from, it takes a village to raise a child.
+<details><summary>AI ENTERPRISE INTERNSHIP	MAY – SEP 2026 (RiseByTalent)</summary> </br>
 
-  And now, I’m at a point where I want to give back to that village in a space where I know the impact can be big.
+Identified and created several AI solutions for two different stakeholders.
 
-  And for me, that space is Technology.
-  </p>
+- Rise By Talent - Built an n8n workflow solution to solve problems within their marketing outputs.
 
-  <details>
-    <summary>Experiences 🛠️⚙️</summary>
+- Talent International - formed a Canva workflow for visual and then created in Codex a skill using the ICM method. Together with a presentation shared back to Talent to show their manual workflow, their problem and why the solution needed to be implemented.
 
- <p>All the different jobs I’ve had — they’ve really shaped who I am today.
-Each one built something in me.
-Whether it was work ethic, resilience, or just learning how to figure things out.
-I’ve seen a lot… especially being on the other side of tech — the labour side.
+- Identified by sitting with clients and asking questions to figure out what was repetitive in their process, why is it done like that, what could change if this was automated and many other questions to really get to understand their manual process
 
-And now, I’m at a point where I want to go deeper.
-I want to understand what’s happening on the back-end.
-What pathways are actually out there.
-And how I can be part of building, not just using.
-Because for me, it’s about growth — taking everything I’ve learned so far… and stepping into something more.
-  </p>
+- Created a tailored solution from gathered insights and built a supporting presentation addressing key pillars including customer journey, benefits and ROI, risk and mitigations, operational and strategic capabilities
 
-  <details>
-  <summary>Apprentice Electrician💡⚡</summary>
-  <p>
-
-
-- Gaining Hands-on experience with switchboards and basic electrical installation.
-
-    
-- Following safety procedures while using tools and electrical equipment.
-
-
-- Supporting qualified electricians on-site and applying practical knowledge from pre-trade training.
-
-- Worked on Mt Eden train station project. Installed support for cables, wired up lights, sensors, card readers, socket outlets, isolators and helped with cable termination on a transformer.</p>
-
-  </details>
-
-  <details>
-  <summary>Rainbow's End🌈🍯</summary>
-  <p>
-
-<h2>Ride Operator</h2>
-
-- Operated rides
-
-- Daily checks on rides
-
-- Customer service with ride announcements
-
-- Stay aware for any safety concerns before, during and after the ride
-
-<h2>Team Leader</h2>
-
-
-
-- Maintained and upheld safety standards daily for staff
-- In charge of managing and rostering staff on different amusement rides
-- First to deal with and handle customer enquiries and complaints in regard to rides and ride staff </p>
-  </details>
-
-  </details>
+- Presented a business case outlining commercial value and outcomes to KPMG, Deloitte, AIA, LIC, Rise, and Talent International
 
 </details>
 
+<details><summary>IT INTERNSHIP	FEB – APRIL 2026 (RiseByTalent)</summary> </br>
 
-# Creativity | App Building 🔗🧠</p> 
-<details><summary>I VibeCoded an app 🎮🗺️</summary>### A gamified financial experience that keeps you connected to better habits
+Developed and refined core IT skills, beginning with hardware troubleshooting, mobile device management, and small office setups
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE" width="100%" />
-</p>
+- Gained Certification in Foundational IT and Cybersecurity 
+- Disassembled and reassembled laptops, identifying and replacing components to restore full working condition
+- Terminated and tested Cat6 cabling with RJ-45 connectors to create functional Ethernet cables
+- Set up docking stations and managed cable organisation within office environments
+- Diagnosed and resolved printer issues, including new installations
+- Joined the sourcing team at Talent Auckland, supporting candidate sourcing initiatives
+- Utilised CRM system to record and manage candidate information throughout the contact process 
+- Developed corporate soft skills and adapted effectively to a professional team environment
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in--progress-blue" />
-  <img src="https://img.shields.io/badge/version-0.1-green" />
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey" />
-</p>
 
----
+</details>
+<details><summary>APPRENTICE ELECTRICIAN	OCT 2023 – SEP 2025 (OMEXOM)</summary> </br>
 
-## 🧠 The Story Behind Teathered
+Starting July 2022, completing through NZMA an electrical engineering pre trade which covered year 1-2 papers.
 
-One thing about me I've always been someone who enjoys creating and fixing things.  
-Whether it's hardware or software, I take pride in building something meaningful.  
-Because to me, it reflects the time and effort I've invested.
-
-Recently, I've been using AI tools to bring my ideas to life to actually visualise what I've been thinking.
-
-One of those ideas is **Teathered**.
-
-It started as a simple question:
-
-> *How do I create something that actually helps people?*
-
----
-
-## 🎯 The Why
-
-Right now, our generation is more connected to technology than ever before.
-
-- Attention spans are getting shorter  
-- Financial literacy isn't talked about enough  
-- And saving money often feels overwhelming or boring  
-
-I wanted to change that.
-
----
-
-## 💡 The Idea
-
-Teathered is built around a simple concept:
-
-> Make financial growth feel like a game.
-
-Instead of traditional banking, users:
-- Level up their habits 📈  
-- Join clans for accountability 👥  
-- Earn rewards through saving 🪙  
-
-It's designed to feel **engaging, not overwhelming**.
-
----
-
-## 🛠️ How It's Being Built
-
-To bring this idea to life:
-
-- AI tools are used to design and visualise the experience  
-- Automation tools (like n8n) support backend systems  
-- A strong focus is placed on **security**, especially around authentication and user data  
-
-Because when it comes to finances — **trust matters**.
-
----
-
-## 🌍 The Vision
-
-The goal is simple:
-
-> Help young people build better financial habits in a way that feels natural.
-
-Teathered connects money management with something familiar — **gaming**.
-
-Users stay motivated, supported, and accountable through shared progress, rewards, and community.
-
----
-## 🚀 Overview
-Teathered is a gamified financial platform designed to make saving money engaging, social, and rewarding.
-
-It transforms financial discipline into an interactive experience where users stay **connected (teathered)** to their goals.
-
----
-
-## 🎯 Problem
-Many people struggle with:
-- Inconsistent saving habits  
-- Lack of motivation  
-- Poor financial awareness  
-
----
-
-## 💡 Solution
-Teathered turns financial behavior into a game:
-- Track progress like XP  
-- Complete saving challenges  
-- Stay accountable through social systems  
-
----
-
-## 🧩 Game Mechanics
-
-- 🪙 Earn XP for saving money  
-- 🔗 Stay "teathered" to your goals  
-- 🏆 Level up your financial habits  
-- 👥 Join groups / accountability circles  
-- 🎯 Complete saving quests  
-- 🎁 Unlock rewards  
-
----
-
-## 📱 Features
-
-- 💳 Smart savings tracking  
-- 📊 Visual progress dashboard  
-- 🤖 AI financial assistant  
-- 🔔 Habit reminders  
-- 🌍 Social gamification  
-
----
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="screenshots/status.png" width="30%" />
-  <img src="screenshots/bazaar.png" width="30%" />
-  <img src="SCREENSHOT_3" width="30%" />
-</p>
-
----
-
-## 🎥 Demo
-
-<p align="center">
-  <img src="YOUR_GIF_OR_DEMO" width="70%" />
-</p>
-
----
-
-## ⚙️ How It Works
-
-1. User signs up  
-2. Sets financial goals  
-3. Join a group or play solo  
-4. Completes saving quests or challenges  
-5. Earns rewards and levels up  
-
----
-
-## 🛠️ Tech Stack
-
-- Frontend: AI Studio  
-- Backend: N8N  
-- Database:   
-
----
-
-## 🗺️ Roadmap
-
-- [ ] MVP UI design  
-- [ ] Core saving system  
-- [ ] Gamification engine  
-- [ ] Social system  
-- [ ] AI assistant</details>
-
----
-
-<h1>AI Business Case Study🧑‍💻✏️</h1>
-
-<details><summary>AI Business videos</summary>
-  <p>
-    <a href="https://youtu.be/ZigypgG4H9M">Brainstorm Phase🧑‍💻⚡</a>
-  </p>
-
-   <p>
-    <a href="https://youtu.be/1sg4-qKXZIs">AI Business Case Presentation🔌🤖</a>
-  </p>
+- Hands-on experience working on switchboards, transformers, isolators and basic installations
+- Developed troubleshooting and initiative skills. Used to test, identify any issues with cables and structural support and create next plan of action.
+- Confidence in Communication. Planning with other trades to prevent clashes and safety issues on site.
+- Pride in my work. Doing it right the first time not only for safety but for clients to help better business ventures.
+- Having the grit to work 10-12 hour days, 6 days a week.
 
 </details>
 
----
-<h1>Hardware | Troubleshooting💻🧩</h1>
+<details><summary>TEAM LEADER	JUN 2021 – FEB 2024 (Rainbow's End)</summary> </br>
 
-<details><summary>Laptop/SOHO Breakdown 📖✏️</summary>
-  <p>
-    <a href="https://youtu.be/ZigypgG4H9M">Laptop Dis-assemble/Assemble🧑‍💻⚡</a>
-  </p>
+Oversee the ride operator’s department. Held daily morning meeting, covered customer complaints, did daily rosters for shifts and ride allocation. Running the department day to day.
 
-   <p>
-    <a href="https://your-video-link.com">SOHO Network Design🔌🤖</a>
-  </p>
+-	Daily briefing to discuss the significance of safety to operator team. Reminders of daily checks and procedures before opening
+-	Effectively communicating with customer complaints and quick thinking to de-escalate the situation. 
+- Understanding employees’ health. planning ride rosters to match staff with what they trained on, ability to work and allocate them on the rides.
+- Built resilience. Knowing when short staffed for days and under the pump to open. Understood how to manage in those situations. 
 
 
 </details>
 
+<details><summary>RIDE OPERATOR	JULY 2018 – JUN 2021 (Rainbow’s End)</summary> </br>
 
- <h1>Connect With ME 🌐</h1>
+Operated and maintained rides through daily safety checks, delivered clear customer service via ride announcements.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amaziah-timoti-564960378/)
-- 📩 [Gmail](mailto:amaziahtimoti@gmail.com)
-- 📸 [Instagram](https://instagram.com/amaziah.t)
+</details>
+
+</details>
+
+
+
+
+
+<h2>🤖 AI Projects:</h2>
+
+<details><summary><b>AI solution 💡 (Small charity - <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="18" />)</b></summary>
+
+- [Planning/BrainStorm Phase](https://youtu.be/ZigypgG4H9M)
+- [AI Business Case](https://youtu.be/WVYIAglMCjs)</details>
+
+<details><summary><b>AI solution 🧑‍💻✏️(Talent International - <img src="https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white" alt="Codex" height="18" />)</b></summary>
+
+- [AI Business Case](https://youtu.be/7eeAsCjXpZU)</details>
+  
+ <details><summary><b>Vibecoded app 🔗🧠 (Passion Project - <img src="https://img.shields.io/badge/-Google_Labs-4285F4?style=flat&logo=google&logoColor=white" alt="Google Labs" height="18" />)</b></summary>
+
+- [App walkthrough](https://youtu.be/Yyo1FmSk92M)</details>
+ 
+
+ 
+
+ 
+
+<h2>🔌Hardware</h2>
+<details><summary>Walkthroughs 🗺️</summary>
+ 
+- [Laptop disassemble and assemble](https://youtu.be/FpwU0H8Sa78)</details>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AmaziahTimoti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AmaziahTimoti | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+[linkedin]: https://www.linkedin.com/in/amaziah-timoti/
+[email]: mailto:amaziahtimoti@gmail.com
+
+
