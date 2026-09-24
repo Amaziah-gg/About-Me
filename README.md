@@ -1,8 +1,8 @@
-<img align="right" width="150" src="https://github.com/user-attachments/assets/0b804042-6035-4ca4-a0ae-12663332f524" alt="Amaziah Timoti"/>
+<img align="left" width="150" src="https://github.com/user-attachments/assets/0b804042-6035-4ca4-a0ae-12663332f524" alt="Amaziah Timoti"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FF6EC7&background=1A1A2E&center=true&vCenter=true&width=450&height=100&lines=AMAZIAH+TIMOTI;AI+%2B+TECH" alt="banner"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF6EC7&background=1A1A2E&center=true&vCenter=true&width=320&height=100&lines=AMAZIAH+TIMOTI;AI+%2B+TECH" alt="banner"/>
 
-<br clear="right"/>
+<br clear="left"/>
 
  <details><summary>Check me out 🌱</summary>
 
