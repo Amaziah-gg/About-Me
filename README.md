@@ -1,6 +1,6 @@
-<h1>🌊Talofa, I'm Amaziah! <br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FF6EC7&background=1A1A2E&center=true&vCenter=true&width=700&height=120&lines=AMAZIAH+TIMOTI;AI+%2B+TECH" alt="banner"/>
 
-<h2>👨‍💻 Who am I:</h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2000&pause=500&color=FF6EC7&background=1A1A2E&vCenter=true&width=400&height=50&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+WHO+AM+I&repeat=false" alt="Who am I"/>
 
  <details><summary>Check me out 🌱</summary>
 
@@ -82,11 +82,7 @@ Operated and maintained rides through daily safety checks, delivered clear custo
 
 </details>
 
-
-
-
-
-<h2>🤖 AI Projects:</h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2000&pause=500&color=FF6EC7&background=1A1A2E&vCenter=true&width=400&height=50&lines=%F0%9F%A4%96+AI+PROJECTS&repeat=false" alt="AI Projects"/>
 
 <details><summary><b>AI solution 💡 (Small charity - <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="18" />)</b></summary>
 
@@ -100,23 +96,17 @@ Operated and maintained rides through daily safety checks, delivered clear custo
  <details><summary><b>Vibecoded app 🔗🧠 (Passion Project - <img src="https://img.shields.io/badge/-Google_Labs-4285F4?style=flat&logo=google&logoColor=white" alt="Google Labs" height="18" />)</b></summary>
 
 - [App walkthrough](https://youtu.be/Yyo1FmSk92M)</details>
- 
 
- 
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2000&pause=500&color=FF6EC7&background=1A1A2E&vCenter=true&width=400&height=50&lines=%F0%9F%94%8C+HARDWARE&repeat=false" alt="Hardware"/>
 
- 
-
-<h2>🔌Hardware</h2>
 <details><summary>Walkthroughs 🗺️</summary>
  
 - [Laptop disassemble and assemble](https://youtu.be/FpwU0H8Sa78)</details>
 
-<h2> 🤳 Connect with me:</h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2000&pause=500&color=FF6EC7&background=1A1A2E&vCenter=true&width=500&height=50&lines=%F0%9F%A4%B3+CONNECT+WITH+ME&repeat=false" alt="Connect with me"/>
 
 [<img align="left" alt="AmaziahTimoti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AmaziahTimoti | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/amaziah-timoti/
 [email]: mailto:amaziahtimoti@gmail.com
-
-
