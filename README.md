@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FF6EC7&background=1A1A2E&center=true&vCenter=true&width=320&height=100&lines=AMAZIAH+TIMOTI;AI+%2B+TECH" alt="banner"/>
 
-<br clear="left"/>
+<br clear="left"/> </br>
 
  <details><summary>Check me out 🌱</summary>
 
